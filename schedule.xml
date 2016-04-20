@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE schedule SYSTEM "schedule.dtd" [
+    <!ENTITY days    SYSTEM "weekDays.xml">
+    <!ENTITY periods SYSTEM "times.xml">
+    <!ENTITY courses SYSTEM "classes.xml">
+]>
+
+<schedule set="4B" term="Winter 2016">
+    &days;
+    &periods;
+    &courses;
+</schedule>

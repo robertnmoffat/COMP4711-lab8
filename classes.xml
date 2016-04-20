@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE courses SYSTEM "schedule.dtd">
+<courses>
+    <!-- monday -->
+    <course code="COMP 4932">
+        <booking instructor="Dennis Richards" day="monday" room="SE12 308" type="Lab"/>
+    </course>
+    <course code="COMP 4735">
+        <booking instructor="Mirela Gutica" day="monday" room="SW1 1205" type="Lecture"/>
+    </course>
+    <course code="COMP 4932">
+        <booking instructor="Dennis Richards" day="monday" room="SE12 308" type="Lab"/>
+    </course>
+
+    <!-- tuesday -->
+    <course code="COMP 4560">
+        <booking instructor="Brenda Fine" day="tuesday" room="SE12 325" type="Lab"/>
+    </course>
+    <course code="COMP 4560">
+        <booking instructor="Brenda Fine" day="tuesday" room="SW5 1850" type="Lecture"/>
+    </course>
+    <course code="COMP 4711">
+        <booking instructor="James Parry" day="tuesday" room="SW5 1850" type="Lecture"/>
+    </course>
+    <course code="COMP 4932">
+        <booking instructor="Dennis Richards" day="tuesday" room="SE12 308" type="Lab"/>
+    </course>
+
+    <!-- wednesday -->
+    <course code="COMP 4735">
+        <booking instructor="Mirela Gutica" day="wednesday" room="SE12 308" type="Lab"/>
+    </course>
+    <course code="COMP 4995">
+        <booking instructor="Dennis Richards" day="wednesday" room="SE12 308" type="Lab"/>
+    </course>
+    <course code="COMP 4735">
+        <booking instructor="Mirela Gutica" day="wednesday" room="SW1 1205" type="Lecture"/>
+    </course>
+    
+</courses>

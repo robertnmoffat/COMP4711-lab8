@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE periods SYSTEM "schedule.dtd">
+<periods>
+    <period time="830">
+        <booking instructor="Mirela Gutica" room="SE12 308" type="Lab" day="wednesday" name="COMP 4735"/>
+        <booking instructor="Dennis Richards" room="SE12 308" type="Lab" day="monday" course="COMP 4932"/>        
+    </period>
+    
+    <period time="930">
+        <booking instructor="Brenda Fine" room="SE12 325" type="Lab" day="tuesday" course="COMP 4560"/>
+    </period>
+    
+    <period time="1130">
+        <booking instructor="Mirela Gutica" room="SE12 320" type="Lab" day="monday" course="COMP 4735"/>
+	<booking instructor="Brenda Fine" room="SW5 1850" type="Lecture" day="tuesday" course="COMP 4560"/>
+    </period>
+    
+    <period time="1330">
+        <booking instructor="Mirela Gutica" room="SW1 1205" type="Lecture" day="friday" name="COMP 4735"/>
+    </period>
+    
+    <period time="1430">
+        <booking instructor="Dennis Richards" room="SE12 308" type="Lab" day="monday" name="COMP 4995"/>
+        <booking instructor="James Parry" room="SW5 1840" type="Lecture" day="tuesday" name="COMP 4711"/>
+    </period>
+    
+</periods>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE days SYSTEM "schedule.dtd">
+<days>
+    <day type="monday">
+        <booking instructor="Dennis Richards" room="SE12 308" type="Lab" time="830" name="COMP 4932"/>
+        <booking instructor="Mirela Gutica" room="SW1 1205" type="Lecture" time="1130" name="COMP 4735"/>
+        <booking instructor="Dennis Richards" room="SE12 308" type="Lab" time="1430" name="COMP 4995"/>
+    </day>
+    
+    <day type="tuesday">
+        <booking instructor="Brenda Fine" room="SE12 325" type="Lab" time="930" name="COMP 4560"/>
+        <booking instructor="Brenda Fine" room="SW5 1850" type="Lecture" time="1130" name="COMP 4560"/>
+        <booking instructor="James Parry" room="SW5 1840" type="Lecture" time="1430" name="COMP 4711"/>
+        <booking instructor="Dennis Richards" room="SE12 308" type="Lab" time="1530" name="COMP 4932"/>
+    </day>
+    
+    <day type="wednesday">
+        <booking instructor="Mirela Gutica" room="SE12 308" type="Lab" time="830" name="COMP 4735"/>
+        <booking instructor="Dennis Richards" room="SE12 308" type="Lab" time="1030" name="COMP 4995"/>
+        <booking instructor="Mirela Gutica" room="SW1 1205" type="Lecture" time="1330" name="COMP 4735"/>
+    </day>
+    
+</days>
